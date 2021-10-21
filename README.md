@@ -1,4 +1,6 @@
-### Hi there 👋
+![Profile Banner Image](https://github.com/marcobuontempo/marcobuontempo/blob/main/banner.gif)
+
+<!-- ### Hi there 👋 -->
 
 <!--
 **marcobuontempo/marcobuontempo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
